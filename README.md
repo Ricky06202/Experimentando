@@ -17,3 +17,5 @@ En esta seccion soluciono los diversos problemas de la pagina de CodinGames que 
 ### ricky
 
 Esta es la seccion Exclusiva para mis archivos de libreria
+
+### [Mi Amor](https://github.com/Karolita02/De_C_a_Java#appaccesosdirectos "Karolita")
