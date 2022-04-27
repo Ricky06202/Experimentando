@@ -60,7 +60,6 @@ public class GeneradorDeContrasenas extends JFrame{
 
             @Override
             public void keyTyped(KeyEvent e) {
-                // TODO Auto-generated method stub
                 char c = e.getKeyChar();
                 if ((c < '0' || c > '9') && c != '\b' || cantidad.getText().length() >= 2){
                     e.consume();
@@ -70,13 +69,11 @@ public class GeneradorDeContrasenas extends JFrame{
             
             @Override
             public void keyPressed(KeyEvent e) {
-                // TODO Auto-generated method stub
                 
             }
             
             @Override
             public void keyReleased(KeyEvent e) {
-                // TODO Auto-generated method stub
                 
             }
 
@@ -87,7 +84,6 @@ public class GeneradorDeContrasenas extends JFrame{
     
             @Override
             public void actionPerformed(ActionEvent e) {
-                // TODO Auto-generated method stub
                 t.setText(GenerarContraseña(rs.entero(cantidad.getText())));
             }
     
