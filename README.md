@@ -1,18 +1,19 @@
-## Getting Started
+## Experimentando
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+En este repositorio realice pruebas y experimentos acerca del lenguage java para probar como hacer las cosas y tambien como facilitarme el trabajo creandome librerias con los mejores comandos que uso diariamente, ademas en este repositorio hay diversas secciones separadas por capetas:
 
-## Folder Structure
+### [Experimentos](https://github.com/Ricky06202/Experimentando/tree/master/src/Experimentos)
 
-The workspace contains two folders by default, where:
+En Esta seccion tengo almacenada un variada cantidad de archivos en los cuales realice diversas pruebas para descubrir el funcionamiento de diversas cosas en java.
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+### [KarolitaAprende](https://github.com/Ricky06202/Experimentando/tree/master/src/KarolitaAprende)
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+En esta seccion realice unas pruebas para ayudar a mi novia karolita a comprender mejor el lenguaje de java
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+### [ProblemasCodinGames](https://github.com/Ricky06202/Experimentando/tree/master/src/ProblemasCodinGames)
 
-## Dependency Management
+En esta seccion soluciono los diversos problemas de la pagina de CodinGames que no logre resolver en la misma pagina web
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+### [ricky](https://github.com/Ricky06202/Experimentando/tree/master/src/ricky)
+
+Esta es la seccion Exclusiva para mis archivos de libreria
