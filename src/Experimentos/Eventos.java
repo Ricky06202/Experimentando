@@ -15,7 +15,7 @@ class usar{
         Eventos n = new Encendido();
         if(n.getClass() == new Apagado().getClass()) {
             rs.println("Encendiendo");
-            n = new Encendido();
+            // n = new Encendido();
         }
 
         if(n.getClass() == new Encendido().getClass()) {
