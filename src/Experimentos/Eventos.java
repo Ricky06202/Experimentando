@@ -20,7 +20,7 @@ class usar{
 
         if(n.getClass() == new Encendido().getClass()) {
             rs.println("Apagando...");
-            n = new Apagado();
+            // n = new Apagado();
         }
     }
 }
